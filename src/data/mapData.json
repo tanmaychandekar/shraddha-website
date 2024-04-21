@@ -1,0 +1,147 @@
+{
+    "features": [
+        {
+        "type": "Feature",
+        "properties": {
+            "title": "Shraddha Extension Secunderabad",
+            "description": "Departmental Store - Gift & Decor, Books & Stationery, Arts & Crafts, Toys & Games, Party & Festive Decorations and Food Court",
+            "pno" : "9515350721/9848653332",
+            "link" : "https://maps.app.goo.gl/dMJFHi67wXpwdQWp8",
+            "address" : "9-1-187, St Johns Rd, beside Sangeeth Theater, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500025"
+        },
+        "geometry": {
+            "coordinates": [78.50505618414094, 17.440326223864693], 
+            "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Extension Miyapur",
+                "description": "Departmental Store - Gift & Decor, Books & Stationery, Arts & Crafts, Toys & Games, Party & Festive Decorations and Food Court",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/fmDxbUs8GhC24pbUA",
+                "address" : "St.Martin's High School Complex, Mumbai Hwy, Nandini Nagar, Madhava Nagar Colony, Ambedkar Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049"
+            },
+            "geometry": {
+                "coordinates": [78.35914814407683, 17.49598682820505], 
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Book Depot",
+                "description": "Book Store",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/QpdCPfRQZMWTRzbKA",
+                "address" : "No. 9-3-290/5, Station Road, Near Ganesh Temple, Secunderabad, Telangana 500003"
+            },
+            "geometry": {
+                "coordinates": [78.50349162281354, 17.4349999302307],   
+                "type": "Point"
+            } 
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Collections",
+                "description": "Gift Store",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/F6uxEmPHR4Q4uaHx7",
+                "address" : "Station Road, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003"
+            },
+            "geometry": {
+                "coordinates": [78.50352548048423, 17.435058994238158],   
+                "type": "Point"
+            }  
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Party Shop",
+                "description": "Party & Festive Decoration Store",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/dMJFHi67wXpwdQWp8",
+                "address": "9-1-95, SD Road, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003"
+            },
+            "geometry": {
+                "coordinates": [78.50365465354204, 17.440960881588325],   
+                "type": "Point"
+            }  
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Extension AS Rao Nagar",
+                "description": "Departmental Store - Gift & Decor, Books & Stationery, Arts & Crafts, Toys & Games, Party & Festive Decorations",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/6hcFFfiKhfMD7g8C9",
+                "address" : "#19-70/2A, TVS Showroom Lane, Opposite Chennai Shopping Mall A.S. Rao Nagar, Lakshmipuram Colony, ECIL, Cherlapalli Industrial Area, A. S. Rao Nagar, Hyderabad, Telangana 500062"
+            },
+            "geometry": {
+                "coordinates": [78.5560491111681, 17.481377183305067],  
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Extension Sainikpuri",
+                "description": "Departmental Store - Gift & Decor, Books & Stationery, Arts & Crafts, Toys & Games",
+                "pno" : "9515350721/9848653332",
+                "link": "https://maps.app.goo.gl/6hcFFfiKhfMD7g8C9",
+                "address" : "Beside Ding Dong Supermarket, Armed forces officers cooperative housing society, #1,2&3, Shopping Center, Sainikpuri, Secunderabad, Telangana 500094"
+            },
+            "geometry": {
+                "coordinates": [78.54079544259427, 17.48904383154362],  
+                "type": "Point"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Good Goods by Shraddha",
+                "description": "Mall Concept - Gifts & Decor, Stationery and Lifestyle Products",
+                "pno" : "9515350721/9848653332",
+                "link" : "https://maps.app.goo.gl/jVsGDbeZRa3LQT9TA",
+                "address" : "Sarath City Capital Mall, Whitefields, Kondapur, Telangana 500084"
+            },
+            "geometry": {
+                "coordinates": [78.36366965349688, 17.4580900683220585],   
+                "type": "Point"
+            }  
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Temptations",
+                "description": "Food Court",
+                "pno" : "9515350721/9848653332",
+                "link":"https://maps.app.goo.gl/F4beCJmnACyeDJqYA",
+                "address" : "Ground Floor, Shop No. 9-1-187, St Johns Rd, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003"
+            },
+            "geometry": {
+                "coordinates": [78.50514618472624, 17.44037263641447],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shraddha Extension Tarnaka",
+                "description": "Departmental Store - Gift & Decor, Books & Stationery, Arts & Crafts, Toys & Games",
+                "pno" : "9515350721/9848653332",
+                "link": "https://maps.app.goo.gl/yD3MAQ39pSwfWLug7",
+                "address" : " Aspen Apartments, Tarnaka Main Road, Part, Krishna Giri Enclave, Tarnaka, Secunderabad, Telangana 500017"
+            },
+            "geometry": {
+                "coordinates": [78.53539878139213, 17.425763380445023],
+                "type": "Point"
+            }
+        }
+      
+    ],
+  "type": "FeatureCollection"
+}

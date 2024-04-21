@@ -1,0 +1,74 @@
+{
+    "slides" : [
+        {
+            "src" : "https://upload.meeshosupplyassets.com/cataloging/1712908930730/BACKTOSCHOOLOFFER1.png",
+            "alt" : "BACK TO SCHOOL OFFER 20% OFF"
+        },
+        {
+            "src" : "https://upload.meeshosupplyassets.com/cataloging/1712908930711/BACKTOSCHOOLOFFER2.png",
+            "alt" : "50% OFF ON GIFTS AND HOME DECOR"
+        }
+    ],
+
+    "aboutus" : {
+        "info" : "uis exercitation Lorem ad non excepteur nostrud mollit ullamco eiusmod labore culpa proident est. Labore anim adipisicing eu consectetur do amet anim culpa voluptate Lorem Duis do excepteur tempor dolor est sint non occaecat ad dolor esse. Commodo officia excepteur anim labore eu anim qui laborum pariatur laboris aliqua excepteur cupidatat. Eiusmod Lorem culpa ullamco quis ut nulla ea sit. Veniam aute officia occaecat sint aute elit est. Aliquip duis aliquip consequat amet excepteur ea aute cupidatat exercitation tempor quis ipsum est ut."
+    },
+
+    "reviews": [
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjWRy3y7aJBnEoEemVMoay4_Lh8pBgs3mVAEEbFTMtZVXXp9Rmbc=w120-h120-p-rp-mo-ba2-br100",
+            "name" : "Dr.MINAKSHI SINGH",
+            "review" : "Best place to explore for the creative people. U will get best stationery/decoration/painting materials. Just next to it, shraddha snacks is there, and again next to it, shraddha is there where u can get the best gifts for all types of occasions.",
+            "star" : "5"
+        },
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjUVpmhYIMlDnT6idb3pVxEhwE-xD0N1e4r5RbA4K0hbqd__BUeyZg=w120-h120-p-rp-mo-ba4-br100",
+            "name" : "Ruby Nutangi",
+            "review" : "It's in the heart of city(secunderabad) with quality products.I love this place specially for shopping Christmas items & also gifts to my family & friends all the year.You can also find stationary items , Books ,Toys for Kidz, now included with Beauty products & Fancy Jewellery for Ladies.",
+            "star" : "5"
+        },
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjXyukZGFG3vfwrB8FNK1hge3L0ryLaL_8riJrOiBwVZ6id2Gb-A=w120-h120-p-rp-mo-ba5-br100",
+            "name" : "Amit Kumar",
+            "review" : "The shop has got really good collection of gift items. Big space and reasonable price. Must try for any gift item.",
+            "star" : "5"
+        },
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjV943NTWAHxlTaGGFQn6zasCThxygkpQs6PiKLcHb645GFzubnA7g=w120-h120-p-rp-mo-ba2-br100",
+            "name" : "madhusudhan chelluboina",
+            "review" : "It's one of the big shopping point in hyderabad....I love it and I like it ... because quality service and price are good and reasonable.",
+            "star" : "5"
+        },
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjXJkVq4gdqnKJt8NFOQM6L-eoTPWHPt3tEqx0GFEed2ajXDXPURKQ=w120-h120-p-rp-mo-ba7-br100",
+            "name" : "Varkuti Siddhu",
+            "review" : "Its very excellent to see all gifts and decorative items in one place Very gud experiance and have all warriety of bags,lights,Key chains,kids toys,photo frames all was very Nice😊😍 If possible try To See the entire shop in 1day its very tuff bcoz they have more enought collention...",
+            "star" : "5"
+        },
+        {
+            "src" : "https://lh3.googleusercontent.com/a-/ALV-UjXfzOzrNZ_8con9ofD3gr4qeeRNv4SqGTMvxrBhx-Mh-5AE8zvyTg=w120-h120-p-rp-mo-ba6-br100",
+            "name" : "Nagesh Chandana",
+            "review": "Shraddha is a popular chain of stationery shops in Hyderabad/Secunderabad.  This extension is located in Miyapur, beside KS Bakers on Mumbai NH.  All kinds of stationery is available.  A vast varieties is stationery is available here. Apart from stationery, all kinds of gifts for all occasions are also available.  Toys for all ages of kids are also available.  This is a multistory shop",
+            "star" : "5"
+        }
+    ],
+
+    "formats" : [
+        {
+            "title" : "DEPARTMENTAL STORES",
+            "description" : "Welcome to Shraddha Extension, your ultimate destination for all things gifts, decor, books, stationery, toys, games, sports, arts and crafts, imitation jewelry, cosmetics, festive and party decor, and so much more! We've been serving the vibrant communities of Hyderabad and Secunderabad with our expansive 10,000+ square feet store spread across the twin cities. At Shraddha Extension, we believe in offering our customers a diverse and curated selection of products to suit every taste and occasion. Whether you're searching for the perfect gift for a loved one, looking to spruce up your home with stylish decor, or seeking to indulge your creativity with arts and crafts supplies, we have you covered.",
+            "src": "https://upload.meeshosupplyassets.com/cataloging/1713165771665/SHRADDHAEXTENSION8.png"
+        },
+        {
+            "title" : "SPECIALITY STORES",
+            "description" : "Welcome to The Party Shop by Shraddha, your premier destination for all your event decoration needs! Whether you're planning a birthday bash, a wedding celebration, a corporate event, or any special occasion, we've got you covered with our extensive range of decorators and decorations. Established as a sister concern of Shraddha Extension, The Party Shop specializes in providing top-notch event decoration services and products to elevate your gatherings to the next level. With our passion for creativity and attention to detail, we're here to turn your vision into reality and make your event truly unforgettable.",
+            "src" : "https://upload.meeshosupplyassets.com/cataloging/1713166487146/SHRADDHAEXTENSION9.png"
+        },
+        {
+            "title" : "MALL CONCEPTS",
+            "description" : "Welcome to The Good Goods by Shraddha, your premier destination for all things gifts, decor, stationery, and lifestyle products! As a unique mall concept, we strive to offer a curated selection of high-quality goods that cater to your everyday needs and special occasions. At The Good Goods, we're dedicated to providing a shopping experience like no other, where you can discover a diverse array of products that reflect your individual style and preferences. Whether you're searching for the perfect gift for a loved one, looking to spruce up your home with stylish decor, or seeking to add a touch of flair to your everyday life with our stationery and lifestyle products, we've got something for everyone.",
+            "src" : "https://upload.meeshosupplyassets.com/cataloging/1713170063029/SHRADDHAEXTENSION10.png"
+        }
+    ]
+}
+

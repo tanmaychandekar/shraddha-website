@@ -1,0 +1,485 @@
+@font-face {
+    font-family: 'Aachen BT Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Aachen BT Bold'), url('font/Aachen BT Bold font.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'Aachen-Light Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Aachen-Light Regular'), url('font/AACHEN.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'AachenDEEMed Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('AachenDEEMed Regular'), url('font/AE01014D.woff') format('woff');
+    }
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Aachen-Light Regular', 'Rockwell', 'Clarendon', serif;
+    font-weight: normal;
+    background-color:#F5F5DC ;
+}
+
+.container {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.active {
+    background-color: #ffee90;
+}
+
+.nav-logo {
+    letter-spacing: 0.2rem;
+    font-family: 'Aachen BT Bold', 'Rockwell', 'Clarendon', serif;
+    font-weight: normal;
+}
+
+.nav-logo img {
+    width: 18rem;
+}
+
+.nav-logo-sub {
+    letter-spacing: 0.2rem;
+    font-family: 'AachenDEEMed Regular', 'Rockwell', 'Clarendon', serif;
+    font-weight: normal;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FFDE06 ;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+
+nav ul{
+    list-style-type: none;  
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
+    margin: 0 0.5rem;
+    border-radius: 0.5rem;
+}
+
+nav ul li a:not(.active):hover{
+    background-color: #FFE84C;
+    ;
+}
+
+nav .menu {
+    display: none;
+    position: absolute;
+    top: 0.75rem;
+    right: 0.5rem;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 2.25rem;
+    height: 2rem;
+}
+
+
+
+nav .menu span {
+    height: 0.4rem;
+    width: 100%;
+    background-color: black;
+    border-radius: 0.2rem;
+}
+
+
+
+.carousel {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+}
+
+.arrow {
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    color: white;
+    filter: drop-shadow(0px 0px 5px #555);
+}
+
+.arrow:hover {
+    cursor: pointer;
+}
+
+.arrow-left {
+    left: 1rem;
+}
+
+.arrow-right {
+    right: 1rem;
+}
+
+.indicators {
+    display: flex;
+    position: absolute;
+    bottom: 1rem; 
+}
+
+.indicator {
+    background-color: white;
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 100%;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 5px #555;
+    margin: 0 0.2rem; 
+    cursor: pointer;
+}
+
+
+.slide-hidden {
+    display: none;
+}
+
+.indicator-inactive{
+    background-color: grey;
+     
+}
+
+.division {
+    margin-top: 3rem ;
+    padding-top: 2rem;
+    border-top: black solid;
+}
+
+.reviews {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    box-shadow: 0 0 25 #555;
+}
+
+.division a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.reviews h3 {
+    text-transform: uppercase;
+}
+
+.review-card {
+    width: 28%;
+    background-color: rgb(254, 250, 233);
+    border-radius: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    line-height: 1.6;
+    box-shadow: 10px 10px #8e8e8e;
+}
+
+.store-formats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem;
+    line-height: 1.6;
+}
+
+.store-formats img {
+    border-radius: 100%;
+}
+
+.store-locator {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stores {
+    display: flex;
+    flex-direction: column;
+    max-width: 40%;
+    height: 720px;
+    overflow-y: scroll;
+}
+
+.map-container {
+    height: 700px;
+    width: 700px;
+  }
+  
+.mapboxgl-popup {
+    max-width: 400px;
+    font:
+        12px/20px 'Helvetica Neue',
+        Arial,
+        Helvetica,
+        sans-serif;
+}
+
+.marker {
+    background-image: url('https://upload.meeshosupplyassets.com/cataloging/1713367907686/SHRADDHAEXTENSION13.png');
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    border-radius: 100%;
+    cursor: pointer;
+  }
+  
+
+
+.footer {
+    height: 40%;
+    background-color: #FFDE06;
+    margin-top: 20rem;
+}
+
+.footer-sections {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+}
+
+.footer-sections a {
+    color: black;
+}
+
+.footer-sections p {
+    line-height: 1.6;
+    text-align: center;
+}
+
+.social-icons {
+    font-size: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+}
+
+/* Medium Screens */
+@media (min-width:740px) and (max-width: 1050px) {
+    .navbar {
+        height: 4rem;
+    }
+    .nav-logo {
+        margin-top: 1rem;
+    }
+    nav .menu{
+        display: flex;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: start;
+        
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 0.25rem;
+    }
+
+    nav ul.open {
+        display: flex;
+        background-color: #FFDE06;
+        width: 100vh;
+        margin-top: 0;
+    }
+
+    nav ul li{ 
+        width: 100%;
+        text-align: center;
+    }
+
+    nav ul li a {
+        margin: 0.2rem 0.5rem;
+    }
+
+    .review-card {
+        width: 100%;
+    }
+
+    .store-formats{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .store-format-store {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .store-formats img {
+        width: 30rem;
+    }
+
+    .store-locator {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stores {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: 20%;
+        min-width: 800px;
+    }
+
+    .store {
+        padding: 3rem;
+    }
+
+    .map-container {
+        margin-top: 1rem;
+    }
+}
+
+/* Mobile Screens */
+@media (max-width: 740px) { 
+    .nav-logo {
+        height: 3rem;
+        font-size: 20px;
+        margin-top: 1rem;
+    }
+
+    .nav-logo img {
+        width: 14rem;
+    }
+
+    .navbar {
+        height: 4rem;
+    }
+    
+    nav .menu{
+        display: flex;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: start;
+        
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 0.25rem;
+    }
+
+    nav ul.open {
+        display: flex;
+        background-color: #FFDE06;
+        width: 100vh;
+        margin-top: 0;
+    }
+
+    nav ul li{ 
+        width: 100%;
+        text-align: center;
+    }
+
+    nav ul li a {
+        margin: 0.2rem 0.5rem;
+    }
+
+    .review-card {
+        width: 100%;
+    }
+
+    .store-formats{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .store-format-store {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .store-formats img {
+        width: 20rem;
+    }
+
+    .store-locator {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stores {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: 20%;
+        min-width: 350px;
+    }
+
+    .store {
+        padding: 3rem;
+    }
+
+    .map-container {
+        margin-top: 1rem;
+        width: 400px;
+        height: 400px;
+    }
+
+    .mapboxgl-popup {
+        max-width: 100px;
+        max-height: 100px;
+        font:
+            12px/20px 'Helvetica Neue',
+            Arial,
+            Helvetica,
+            sans-serif;
+    }
+
+    .footer {
+        height: 20%;
+        background-color: #FFDE06;
+        margin-top: 20rem;
+    }
+    
+    .footer-sections {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 4rem;
+    }
+    
+}
